@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Supporting Different Languages</string>
+
+    <string name="welcome">Welcome To All</string>
+
+    <string name="hint_message">Enter Your Name</string>
+    <string name="submit">Submit</string>
+
+    <string name="english">English</string>
+</resources>
